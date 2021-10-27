@@ -7,8 +7,4 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
-
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
-
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+Highly analytical student with strong apt for learning and collaborative skills. Looking to obtain a Data Science or Software Engineering internship to utilize my knowledge of data analysis obtained by ongoing coursework. Strong interests in geo-informatics, hydro-informatics and analysis of earth systems sciences; currently pursuing research and analysis of large complex and multi dimensional data sets using a variety of tools.

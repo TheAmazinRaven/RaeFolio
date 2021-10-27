@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Raven Dickerson
+description: Aspiring Software Engineer | Interests in Data Science + Geospatial Information Systems | UAH
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+baseurl: https://github.com/TheAmazinRaven/RaeDickersonFolio #name of GitHub repository
+url: "https://raedickersondev.netlify.app/" #custom url to be used instead of GitHub repository
+email: raejdickerson@gmail.com
 
 
 highlighter: rouge
