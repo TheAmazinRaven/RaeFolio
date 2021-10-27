@@ -3,8 +3,8 @@
 title: Raven Dickerson
 description: Aspiring Software Engineer | Interests in Data Science + Geospatial Information Systems | UAH
 
-baseurl: https://github.com/TheAmazinRaven/RaeDickersonFolio #name of GitHub repository
-url: "https://raedickersondev.netlify.app/" #custom url to be used instead of GitHub repository
+baseurl: https://github.com/TheAmazinRaven/RaeFolio #name of GitHub repository
+url: "https://theamazinraven.github.io/RaeFolio/" #custom url to be used instead of GitHub repository
 email: raejdickerson@gmail.com
 
 
@@ -17,12 +17,12 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+# facebook: "#"
+twitter: "https://twitter.com/TheAmazinRaven"
+linkedin: "https://www.linkedin.com/in/raedickerson/"
+github: "https://github.com/TheAmazinRaven"
+# researchgate: "#"
+# orcid: "#"
 
 highlighter: rouge
 markdown: kramdown
